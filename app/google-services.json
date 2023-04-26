@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589791830832",
+    "project_id": "dandm-4ecc5",
+    "storage_bucket": "dandm-4ecc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589791830832:android:822e92d00a4d5061d25ef5",
+        "android_client_info": {
+          "package_name": "com.dandm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589791830832-ls6234itr41dgn1be4h8g7datv4vcked.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2cgPuMatOJi-7ncRCS0rgh411cyeZdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589791830832-ls6234itr41dgn1be4h8g7datv4vcked.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
